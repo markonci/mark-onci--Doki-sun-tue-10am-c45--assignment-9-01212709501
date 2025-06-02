@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+
+button{
+    width: 10%;
+}
+
+.btn{
+    padding: 20px;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+
+p{
+    font-weight: bold;
+}
+
+.quote{
+    font-weight: 900;
+}
+
+.author{
+    font-weight: 500;
+}
